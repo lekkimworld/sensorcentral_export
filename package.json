@@ -1,0 +1,17 @@
+{
+  "name": "sensorcentral_export",
+  "version": "1.0.0",
+  "description": "Export samples in CSV format for a given sensor",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "moment-timezone": "^0.5.23",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikkel Heisterberg",
+  "license": "MIT"
+}
